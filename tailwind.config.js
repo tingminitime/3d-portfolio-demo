@@ -20,6 +20,9 @@ export default {
       backgroundImage: {
         'hero-pattern': "url('/src/assets/herobg.png')",
       },
+      height: {
+        screen: ['100vh', '100dvh'],
+      },
     },
   },
   plugins: [],

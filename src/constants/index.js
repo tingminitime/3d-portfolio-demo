@@ -266,4 +266,3 @@ const projects = [
 ]
 
 export { services, technologies, experiences, testimonials, projects }
-s
